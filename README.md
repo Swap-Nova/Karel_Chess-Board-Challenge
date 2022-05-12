@@ -9,7 +9,7 @@
   ![image](https://user-images.githubusercontent.com/92979885/168042051-6f53291e-b175-452a-8557-49138b377340.png)
 
   
- ### The Commands used in Karel are:
+  ### <b>The Commands used in Karel are: </b>
   1. Asks Karel to move forward one block. Karel cannot respond to a move() command if there is a wall blocking its way.
   ``` bash
   move()
